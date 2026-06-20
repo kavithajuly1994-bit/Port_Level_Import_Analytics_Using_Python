@@ -1,2 +1,3 @@
-# Port_Level_Import_Analytics_Using_Python
-A trade analytics project focused on port-level import analysis in India using Python and government trade datasets.
+📌 Project Overview
+
+This project analyzes India's import trade data for 2023–2024 to understand import patterns, major trading partners, commodity performance, port activity, and state-wise trade contributions
