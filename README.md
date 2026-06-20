@@ -12,8 +12,7 @@ Port-Level Import Analytics and Trade Intelligence in India
 
 📊 Dataset Overview
 * Dataset: India Import Trade Dataset (2023–2024)
-* Number of Records: Import trade transactions across India
-* Number of Variables: Import-related trade attributes
+* Number of Records: 257826
 
 Key Variables
 * Country
